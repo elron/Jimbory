@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 - )
 - $
 ### Modified Glyphs
-- ò
+- ×¢
 
 ## [0.13] - 2017-02-18
 ### Added
