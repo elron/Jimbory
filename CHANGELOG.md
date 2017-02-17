@@ -7,13 +7,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 ### Added Glyphs
 - (
 - )
-- $
 
 ### Modified Glyphs
 - ×¢
-- ô
 
 ## [0.13] - 2017-02-18
 ### Added
 - New github repository! :D
-- Uploaded the latest version GitHub! :D
+- Uploaded the latest version GitHub
