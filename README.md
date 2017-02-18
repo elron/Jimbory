@@ -18,7 +18,7 @@ Don't try to download the font itself.
 ![alt text](/Examples/ebjimbory.png)
 
 
-/*![alt text](/Examples/EbJimbori2.jpg "EbJimboryRound-Bold.otf")*\
+/*![alt text](/Examples/EbJimbori2.jpg "EbJimboryRound-Bold.otf")*/
 
 
 # ג'ימבורי
