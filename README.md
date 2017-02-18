@@ -1,6 +1,8 @@
-# Jimbory
+# Jimbory / ג'ימבורי
 A Hebrew lettered, rounded and young font by Elron Bucai.
 (Jimbory has its own [site](http://ebfonts.idesignit.co.il/%D7%92%D7%95%D7%A4%D7%9F-%D7%92%D7%99%D7%9E%D7%91%D7%95%D7%A8%D7%99/)!
+
+![alt text](/Examples/ebjimbory.png)
 
 # How to install
 1. Clone or [Download](https://github.com/elron/Jimbory/archive/master.zip)
@@ -12,13 +14,9 @@ A Hebrew lettered, rounded and young font by Elron Bucai.
 Don't try to download the font itself.
 
 
-# Design Examples
+# More Design Examples
 
-
-![alt text](/Examples/ebjimbory.png)
-
-
-/*![alt text](/Examples/EbJimbori2.jpg "EbJimboryRound-Bold.otf")*/
+Coming soon! :D
 
 
 # ג'ימבורי
