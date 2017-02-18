@@ -9,9 +9,12 @@ A Hebrew lettered, rounded and young font by Elron Bucai.
 2. Open the **"Fonts" Folder**.
 3. Install **"EbJimboryRound-Bold.otf"**.
 
-##Important note
+## The font gives you an error!
 
-Don't try to download the font itself.
+If you get an error "Application not found", try to [download](https://github.com/elron/Jimbory/archive/master.zip) the whole ZIP file and follow the steps above.
+
+Downloading the OTF file from its direct page, will prorbobly give you this error. You must the whole project for this not to happen.
+If you still can't find a solution - Don't hesitate, contact me! I'm friendly.
 
 
 # More Design Examples
