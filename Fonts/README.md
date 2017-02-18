@@ -1,7 +1,10 @@
-# Important Note
-Please install the overlaped version.
 
+#The Jimbory family has two fonts:
 
-### The older files don't matter.
+###EbJimbory009bold.otf
+Normal | Bold
+
+###EbJimboryRound-bold.otf
+Round | Bold
 
 
