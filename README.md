@@ -14,12 +14,12 @@ Don't try to download the font itself.
 # Design Examples
 
 
-(/Design Examples/EbJimbori2.jpg)
+(/Examples/EbJimbori2.jpg)
 
 
 ![alt text][id]
 
-[id]: /Design Examples/EbJimbori2.jpg "Title"
+[id]: /Examples/EbJimbori2.jpg "Title"
 
 
 # ג'ימבורי
