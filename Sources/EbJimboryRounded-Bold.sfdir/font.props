@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: EbJimboriRoundBold
-FullName: EbJimbori Round
-FamilyName: EbJimboriRound
+FontName: EbJimboryRoundBold
+FullName: EbJimbory Round
+FamilyName: EbJimboryRound
 Weight: Bold
 Copyright: Copyright (c) 2016, Elron Bucai
 UComments: "2016-10-24: Created with FontForge (http://fontforge.org)"
-Version: 000.13
+Version: 000.14
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1477338234
-ModificationTime: 1486770462
+ModificationTime: 1487377379
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
