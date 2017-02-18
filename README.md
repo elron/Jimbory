@@ -14,12 +14,15 @@ Don't try to download the font itself.
 # Design Examples
 
 
-(/Examples/EbJimbori2.jpg)
+![alt text](/Examples/ebjimbory.png "EbJimbory009bold.otf")
+
+
+![alt text](/Examples/EbJimbori2.jpg "EbJimboryRound-Bold.otf")
 
 
 ![alt text][id]
 
-[id]: /Examples/EbJimbori2.jpg "Title"
+[id]: /Examples/EbJimbori2.jpg "EbJimboryRound-Bold.otf"
 
 
 # ג'ימבורי
