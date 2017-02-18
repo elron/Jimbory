@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 - [
 
 ### Modified Glyphs
+- Number tracking
 - ע
 
 ## [0.13] - 2017-02-18
