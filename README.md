@@ -11,7 +11,7 @@ A Hebrew lettered, rounded and young font by Elron Bucai.
 # Download + Install
 1. Clone or [Download](https://github.com/elron/Jimbory/archive/master.zip)
 2. Open the **"Fonts" Folder**.
-3. Install **"EbJimboryRound-Bold.otf" and "EbJimbory009bold.otf"**.
+3. Install the .otf font files.
 
 ## The font gives me an error!
 
@@ -23,7 +23,9 @@ If you still can't find a solution - Don't hesitate, contact me! I'm friendly.
 
 # More Design Examples
 
-Coming soon! :D
+
+![alt text](/Examples/differences.png)
+
 
 
 # ג'ימבורי
