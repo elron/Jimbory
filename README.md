@@ -24,7 +24,7 @@ If you still can't find a solution - Don't hesitate, contact me! I'm friendly.
 # More Design Examples
 
 
-![alt text](/Examples/differences.png)
+![alt text](/Examples/differences.jpg)
 
 
 
