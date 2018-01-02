@@ -3,7 +3,13 @@ Here are the changes made to the font through time.
 
 
 ## Releasing Jimbory [1.0] - 2018-01-02
+### Introduction
+Finally releasing version 1.0!
+
+### Changes
+- New names to the fonts.
 - Added TTF support (for microsoft office users)
+- Added 
 - Size adjustment to the font (it was way too huge before, now its aligned to english text)
 - Reshaped some glyphs (5,6,)
 - Added "Hafonton" logo to glyph ⅁ (uni2141)
