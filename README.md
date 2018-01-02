@@ -15,6 +15,13 @@ A Hebrew lettered, rounded and young font by Elron Bucai.
 
 ## The font gives me an error!
 
+### Microsoft Word - Fonts arn't working
+
+That why there are TTF files included. Install them and have fun :)
+
+
+### Help Download
+
 If you get an error "Application not found", try to [download](https://github.com/elron/Jimbory/archive/master.zip) the whole ZIP file and follow the steps above.
 
 Downloading the OTF file from its direct page, will prorbobly give you this error. You must the whole project for this not to happen.
