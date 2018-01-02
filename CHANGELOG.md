@@ -2,8 +2,15 @@
 Here are the changes made to the font through time.
 
 
+## Releasing Jimbory [1.0] - 2018-01-02
+- Added TTF support (for microsoft office users)
+- Size adjustment to the font (it was way too huge before, now its aligned to english text)
+- Reshaped some glyphs (5,6,)
+- Added "Hafonton" logo to glyph ⅁ (uni2141)
+- Rounded / Squared fonts are more consistent, with about the same glyphs.
 
-## New versions of Jimbory and JimboryRound
+
+## New versions of Jimbory and JimboryRound - 2017-04-14
 ### Jimbory v0.11
 - New name (ElronJimbory insted of EbJimbori)
 - New missing glyphs
