@@ -17,7 +17,7 @@ A Hebrew lettered, rounded and young font by Elron Bucai.
 
 ### Microsoft Word - Fonts arn't working
 
-That why there are TTF files included. Install them and have fun :)
+That why there are TTF files included. Install them and you are ready to go :)
 
 
 ### Help Download
