@@ -8,7 +8,8 @@ Finally releasing version 1.0!
 
 ### Changes
 - New names to the fonts (Jimbory Rounded + Jimbory Squared)
-- Added TTF support (for microsoft office users)
+- Added TTF formats (for microsoft office users)
+- Added WOFF formats (for webfont usage)
 - Size adjustment to the fonts (it was way too huge before, now its aligned to english text)
 - Added "Hafonton" logo to glyph ⅁ (uni2141)
 - Rounded / Squared fonts are more consistent with similarity, with about the same glyphs.
