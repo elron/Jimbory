@@ -2,6 +2,11 @@
 Here are the changes made to the font through time.
 
 
+## [1.01] - 2020-04-14
+- Re-did the kerning for both fonts.
+- Fixed width problems to make the font more balanced.
+- Now the font works in word.
+
 ## Releasing Jimbory [Version 1.0] - 2018-01-02
 ### Introduction
 Finally releasing version 1.0!

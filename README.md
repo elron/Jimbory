@@ -6,7 +6,7 @@ A Hebrew lettered, rounded and young font by Elron Bucai.
 
 
 
-![alt text](/Examples/ebjimbory.png)
+![alt text](/changelog-images/ebjimbory.png)
 
 # Download + Install
 1. Clone or [Download](https://github.com/elron/Jimbory/archive/master.zip)
@@ -32,7 +32,7 @@ If you still can't find a solution - Don't hesitate, contact me! I'm friendly.
 # More Design Examples
 
 
-![alt text](/Examples/differences.jpg)
+![alt text](/changelog-images/differences.jpg)
 
 
 
